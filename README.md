@@ -42,6 +42,7 @@ Demo credentials: `admin@example.com` / `password`
 ```bash
 cd frontend
 npm install
+cp .env.example .env
 npm run dev
 ```
 
